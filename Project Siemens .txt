@@ -1,0 +1,23 @@
+The project aimed at modernizing a Management Information System (MIS) for the food and beverage industry.
+
+1-focusing on automation solutions to help businesses reduce costs and their ecological footprint
+2-The existing MIS has been in place for decades, offering data-driven insights to improve decision-making. However, it's based on outdated technology from the 1990s, emphasizing the need for modernization to make the system appealing and accessible to small and medium-sized enterprises (SMEs).
+
+
+This challenge involves revitalizing an outdated management information system for the food and beverage industry, focusing on modern user interface design, enhanced functionality, and alignment with sustainability goals. The objective is to make the system more accessible and appealing to a broader range of SMEs, thus expanding its market reach and impact.
+
+Questions
+
+Can you provide more details on the technical limitations of the current system? 
+Are there specific design inspirations or trends you’re looking to incorporate in the new system’s look and feel?
+What is the input of the system? What are the fields?
+How do current customers interact with the system, and what are their most common feedback points regarding its usability and functionality?
+What are the main pain points and limitations that users currently experience with the system?
+What are your final expectations?
+How will you measure the success of the new design during and after the prototyping phase?
+How are you collecting and integrating user feedback into the design process?
+
+
+
+
+
