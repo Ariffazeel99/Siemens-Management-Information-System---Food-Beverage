@@ -16,4 +16,4 @@
 
 9. **System Benefits**: "What benefits have you realized from using your current MIS?"
 
-10. **Future Prospects**: "Looking ahead, do you anticipate any changes or upgrades to your MIS setup? Why or why not?"
+10. **Future Prospects**: "Looking ahead, do you want any changes or upgrades to your MIS setup? Why or why not?"
